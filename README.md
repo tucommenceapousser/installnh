@@ -2,6 +2,8 @@
 
 Ce script permet d'installer Kali Nethunter sur un appareil Android sans nécessiter de root. Il est mis à disposition par **trhacknon**.
 
+**[Read this in English](https://github.com/tucommenceapousser/installnh/blob/main/README-EN.md)**
+
 ## Prérequis
 
 - Un appareil Android avec Termux installé.
