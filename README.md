@@ -66,7 +66,7 @@ Pour toute question ou assistance, veuillez contacter **trhacknon** via [lien de
 
 Voici une capture d'écran simulant l'exécution du script :
 
-![Capture d'écran](sc.png)
+![Capture d'écran](Screenshot_2024-08-02-01-31-03-905_com.android.chrome-edit.jpg)
 
 ---
 
