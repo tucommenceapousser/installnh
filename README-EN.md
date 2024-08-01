@@ -60,6 +60,8 @@ The script performs the following actions:
 
 For any questions or assistance, please contact **trhacknon** via [contact link].
 
----
+### Screenshot
 
-**Note**: This README uses simple formatting for better readability. For advanced visual effects, you can explore extended Markdown features and GitHub plugins.
+Here is a screenshot simulating the script execution:
+
+![Screenshot](Screenshot_2024-08-02-01-31-03-905_com.android.chrome-edit.jpg)
