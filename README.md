@@ -67,7 +67,3 @@ Pour toute question ou assistance, veuillez contacter **trhacknon** via [lien de
 Voici une capture d'écran simulant l'exécution du script :
 
 ![Capture d'écran](Screenshot_2024-08-02-01-31-03-905_com.android.chrome-edit.jpg)
-
----
-
-**Note** : Ce README utilise une mise en forme simple pour une meilleure lisibilité. Pour des effets visuels avancés, vous pouvez explorer les fonctionnalités de Markdown étendues et des plugins GitHub.
