@@ -62,6 +62,12 @@ Le script effectue les actions suivantes :
 
 Pour toute question ou assistance, veuillez contacter **trhacknon** via [lien de contact].
 
+### Capture d'écran
+
+Voici une capture d'écran simulant l'exécution du script :
+
+![Capture d'écran](sc.png)
+
 ---
 
 **Note** : Ce README utilise une mise en forme simple pour une meilleure lisibilité. Pour des effets visuels avancés, vous pouvez explorer les fonctionnalités de Markdown étendues et des plugins GitHub.
